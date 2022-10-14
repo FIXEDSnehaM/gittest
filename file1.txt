@@ -1,5 +1,4 @@
 "hello"
-<<<<<<< HEAD
 This is Dhivya
 this is sneha
 
